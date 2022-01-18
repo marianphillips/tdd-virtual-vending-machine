@@ -3,67 +3,80 @@
         {
             "name" : "Wotsits",
             "code" : "A1",
-            "price": 0.69
+            "price": 69,
+            "quantity": 5
         },
         {
             "name" : "Quavers",
             "code" : "A2",
-            "price": 0.69
+            "price": 69,
+            "quantity": 5
         },
         {
             "name" : "Walkers",
             "code" : "A3",
-            "price": 0.50
+            "price": 50,
+            "quantity": 5
         },
         {
             "name" : "Hula Hoops",
             "code" : "B1",
-            "price": 0.45
+            "price": 45,
+            "quantity": 5
         },
         {
             "name" : "Bacon Fries",
             "code" : "B2",
-            "price": 0.90
+            "price": 90,
+            "quantity": 5
         },
         {
             "name" : "French Fries",
             "code" : "B3",
-            "price": 0.90
+            "price": 90,
+            "quantity": 5
         },
         {
             "name" : "Caramac",
             "code" : "C1",
-            "price": 0.70
+            "price": 70,
+            "quantity": 5
         },
         {
             "name" : "Twix",
             "code" : "C2",
-            "price": 0.65
+            "price": 65,
+            "quantity": 5
         },
         {
             "name" : "KitKat",
             "code" : "C3",
-            "price": 0.50
+            "price": 50,
+            "quantity": 5
         },
         {
             "name" : "Wispa",
             "code" : "C4",
-            "price": 0.65
+            "price": 65,
+            "quantity": 5
         },
         {
             "name" : "Twirl",
             "code" : "C5",
-            "price": 0.65
+            "price": 65,
+            "quantity": 5
         },
         {
             "name" : "Dairy Milk",
             "code" : "C6",
-            "price": 0.60
+            "price": 60,
+            "quantity": 5
         },
         {
             "name" : "Lion",
             "code" : "C7",
-            "price": 0.70
+            "price": 70,
+            "quantity": 5
         }
 
     ]
