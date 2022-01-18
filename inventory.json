@@ -1,0 +1,70 @@
+{
+    "inventory": [
+        {
+            "name" : "Wotsits",
+            "code" : "A1",
+            "price": 0.69
+        },
+        {
+            "name" : "Quavers",
+            "code" : "A2",
+            "price": 0.69
+        },
+        {
+            "name" : "Walkers",
+            "code" : "A3",
+            "price": 0.50
+        },
+        {
+            "name" : "Hula Hoops",
+            "code" : "B1",
+            "price": 0.45
+        },
+        {
+            "name" : "Bacon Fries",
+            "code" : "B2",
+            "price": 0.90
+        },
+        {
+            "name" : "French Fries",
+            "code" : "B3",
+            "price": 0.90
+        },
+        {
+            "name" : "Caramac",
+            "code" : "C1",
+            "price": 0.70
+        },
+        {
+            "name" : "Twix",
+            "code" : "C2",
+            "price": 0.65
+        },
+        {
+            "name" : "KitKat",
+            "code" : "C3",
+            "price": 0.50
+        },
+        {
+            "name" : "Wispa",
+            "code" : "C4",
+            "price": 0.65
+        },
+        {
+            "name" : "Twirl",
+            "code" : "C5",
+            "price": 0.65
+        },
+        {
+            "name" : "Dairy Milk",
+            "code" : "C6",
+            "price": 0.60
+        },
+        {
+            "name" : "Lion",
+            "code" : "C7",
+            "price": 0.70
+        }
+
+    ]
+}
